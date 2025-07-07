@@ -153,3 +153,18 @@ Your Excel file should contain these columns:
 ## License
 
 MIT License - feel free to use and modify as needed.
+
+
+
+# Email Configuration
+EMAIL=aiautomationhig@gmail.com
+APP_PASSWORD=zhmbgpnnvlolovcl
+
+# Server Configuration
+PORT=5000
+# Email Configuration
+EMAIL=aiautomationhig@gmail.com
+APP_PASSWORD=zhmbgpnnvlolovcl
+
+# Server Configuration
+PORT=5000
